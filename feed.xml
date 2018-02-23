@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bonnie and Clydemotel - Em breve estaremos no ar - Código5 Web</title>
+    <description></description>
+    <link>http://www.bonnieandclydemotel.com.br/</link>
+    <atom:link href="http://www.bonnieandclydemotel.com.br/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 23 Feb 2018 08:51:46 -0400</pubDate>
+    <lastBuildDate>Fri, 23 Feb 2018 08:51:46 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+  </channel>
+</rss>
